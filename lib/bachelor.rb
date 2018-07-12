@@ -8,14 +8,8 @@ def get_first_name_of_season_winner(data, season)
   end
 end
 
-
-
-
-def get_first_name_of_season_winner(data,season)
-  data[season].each do |
   
-  
-  
+
 def get_contestant_name(data, occupation)
  data.each do |season, contestants_array|
     contestants_array.find do |contestant|
